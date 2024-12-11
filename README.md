@@ -1,4 +1,4 @@
-## SPRINT 8: CREAR GRÁFICO EN PYTHON E IMPORTARLOS EN POWER BI
+## SPRINT 8: CREAR VISUALIZACIONES EN PYTHON Y EN POWER BI
 ### SPRINT 8.1 
 Creación de gráficos de la base de datos: R2TRANS con las librerias pandas, matplotlib y seaborn.
 Archivo de VisualStudioCode con el código para la conexión a MySQL y la visualicación de las gráficas. 
